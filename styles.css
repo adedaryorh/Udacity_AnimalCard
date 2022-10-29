@@ -8,10 +8,10 @@ body{
 } 
 
 .outer{
-    outline: 1px solid black;
+    /* outline: 1px solid black;
     outline-color: black;
     outline-style: solid;
-    outline-width: 1px;
+    outline-width: 1px; */
     border: 2px solid black;
 }
 
